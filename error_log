@@ -1,0 +1,36 @@
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:12:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:12:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:12:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:12:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 17:13:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 17:13:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 21:03:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 21:03:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 21:19:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 21:19:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 21:19:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 21:19:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 22:58:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 22:58:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[15-Jun-2021 23:34:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[15-Jun-2021 23:34:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
+[17-Dec-2021 00:23:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8192524/public_html/brianrahmarela.com/index.php on line 3
+[17-Dec-2021 00:23:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/u8192524/public_html/brianrahmarela.com/index.php on line 6
